@@ -12,7 +12,7 @@ This code can be a good example of a real application made with [Limonade PHP](h
 
 
 ----
-Copyright (c) 2009, Webdesign and graphic materials by Vincent hélye - All rights reserved.
+Copyright (c) 2009, Webdesign and graphic materials by Vincent Hélye - All rights reserved.
 
 Copyright (c) 2009 Fabrice Luraine — Code under the [MIT License](http://opensource.org/licenses/mit-license.php) 
 
