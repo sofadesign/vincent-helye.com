@@ -2,7 +2,9 @@
 
 Vincent Hélye's website.
 
-This portfolio is made with [Limonade PHP](http://limonade.sofa-design.net) micro-framework.
+This portfolio is made with [Limonade PHP](http://limonade.sofa-design.net) micro-framework and some extra libraries. 
+
+It runs with a file based database with yaml files that provides meta informations.
 
 This code can be a good example of a real application made with [Limonade PHP](http://limonade.sofa-design.net).
 
