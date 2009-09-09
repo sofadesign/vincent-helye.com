@@ -44,14 +44,4 @@ function yaml_include_contents($input)
 	return $input;
 }
 
-function _yaml_require_spyc()
-{
-  static $loaded = false;
-  if(!$loaded)
-  {
-    
-    $loaded = true;
-  }
-}
-
 ?>
