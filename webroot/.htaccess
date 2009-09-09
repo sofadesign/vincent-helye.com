@@ -1,0 +1,13 @@
+AddHandler application/x-httpd-php5 .php
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks
+  Options +Indexes
+  RewriteEngine on
+  # RewriteBase /www-2/
+  # test string is a valid files
+  RewriteCond %{SCRIPT_FILENAME} !-f
+  # test string is a valid directory
+  RewriteCond %{SCRIPT_FILENAME} !-d 
+  #RewriteRule ^files/(.+)$   datas/public/home/$1    [NC,L]
+  RewriteRule ^(.*)$   index.php?/$1    [NC,L]
+</IfModule>

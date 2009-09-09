@@ -1,0 +1,30 @@
+@title: Vincent Hélye
+@description: >
+    My first Limonade web site. 
+    Ros onse henisi cursus penatibus minciliquat facipsu, 
+    doloborper doloboreet nulla doluptat etueratem eugiamconse.
+
+/:
+    title: Accueil
+    
+
+/infos.txt:
+    title: Texte d'accueil
+
+/news.txt:
+    title: Dernières news (accueil)
+    
+/liens.txt:
+    title: Links
+
+/portfolio:
+    title: Portfolio client
+    module: portfolio
+
+/lab:
+    title: Laboratoire
+
+/espace_client:
+    title: Espace client
+/contact:
+    title: Contact
