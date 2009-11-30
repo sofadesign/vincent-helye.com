@@ -7,7 +7,7 @@
 		35000 Rennes<br>
 		France<br>
 		-<br>
-		+33 2 23 46 31 62
+		+33 (0)2 23 46 31 62
 	</address>
  
 

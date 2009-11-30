@@ -15,13 +15,17 @@
     <meta content='Powered by Limonade (http://limonade.sofa-design.net), Edited with TextMate (http://macromates.com/), Prototyped with Webby (http://webby.rubyforge.org)' name='generator'>
     <meta content='15 days' name='revisit-after'>
     <meta content='index,follow' name='robots'>
+    
+    <meta name="keywords" content="designer,graphic designer,graphisme rennes">
+    <meta name="description" content="">
+    
     <script src='<?=public_url_for('/js/jquery.min.js')?>' type='text/javascript'></script>
     <script src='<?=public_url_for('/js/jquery.cookie.js')?>' type='text/javascript'></script>
     <script src='<?=public_url_for('/js/jquery.helyenav.js')?>' type='text/javascript'></script>
     <script src='<?=public_url_for('/js/letsgo.js')?>' type='text/javascript'></script>
     <link rel="shortcut icon" type="image/x-icon" href="<?=public_url_for('/favicon.ico')?>">
     <link rel="icon" type="image/png" href="<?=public_url_for('/favicon.png')?>">
-    <link rel="icon" href="<?=public_url_for('/favicon.gif')?>" type="image/gif">
+    
   </head>
   <body class='<?=$page_class;?>'>
     <div id='nav'>
